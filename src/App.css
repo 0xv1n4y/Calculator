@@ -1,0 +1,44 @@
+body{
+    
+  height:900px;
+  width: 1300px;
+  background-color:chartreuse;
+  color:black;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+
+button{
+  height:50px;
+  width: 80px;
+  margin:8px;
+  border-radius: 10px;
+  font-size: large;
+  
+  font-style: calc();
+  background-color:lightsalmon;
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+  #hello{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    border-color: brown;
+    color:red;
+    font-size: 35px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+
+  yoy{
+    color: blue;
+  }
+
+  #yoy{
+    color:red
+  }
